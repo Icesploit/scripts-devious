@@ -41,7 +41,7 @@ local function checkdead()
 end
 local mobESPS = {}
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("northwind fucker", "BloodTheme")
+local Window = Library.CreateLib("IceWind", "BloodTheme")
 local ESPTab = Window:NewTab("ESP")
 local CharTab = Window:NewTab("Character")
 local CharMain = CharTab:NewSection("pretty obvious")
